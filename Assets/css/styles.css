@@ -1,0 +1,26 @@
+/* reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Catamaran', sans-serif;
+}
+
+/* variáveis */
+:root {
+    --color-light: #ffffff;
+    --color-blue: #6959c5;
+    --transition: .5s;
+}
+
+html {
+    font-size: 65.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.h2 {
+    text-align: center;
+}
